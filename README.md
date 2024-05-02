@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.shopify.com/s/files/1/0765/0807/products/dark-floral-butterfly-peel-and-stick-wallpaper-910996_1200x1200.png?v=1671615454) 
 
 <h1 align="center">Salam 👋, mən Zeynəb Əhməd</h1>
-<h3 align="center">Azərbaycandan ehtiraslı frontend developer</h3>
+<h3 align="center">Azərbaycandan frontend developer</h3>
 
 - 📫 Mənə necə müraciət etmək olar **Mavishshimm@gmail. com**
 
